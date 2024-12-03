@@ -1,0 +1,37 @@
+aid: council-on-environmental-quality
+name: Council on Environmental Quality
+description: >-
+  Congress enacted NEPA to establish a national policy for the environment,
+  provide for the establishment of the Council on Environmental Quality (CEQ),
+  and for other purposes. NEPA was the first major environmental law in the
+  United States and is often called the Magna Carta of Federal environmental
+  laws. NEPA requires Federal agencies to ...
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - API
+created: '2024-12-03'
+modified: '2024-12-03'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/council-on-environmental-quality/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: council-on-environmental-quality:council-on-environmental-quality
+    name: Council on Environmental Quality
+    description: >-
+      Congress enacted NEPA to establish a national policy for the environment,
+      provide for the establishment of the Council on Environmental Quality
+      (CEQ), and for other purposes. NEPA was the first major environmental law
+      in the United States and is often called the Magna Carta of Federal
+      environmental laws. NEPA requires Federal agencies to ...
+    humanURL: https://ceq.doe.gov
+    tags:
+      - API
+    properties:
+      - type: Documentation
+        url: https://ceq.doe.gov
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
