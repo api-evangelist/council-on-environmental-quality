@@ -3,8 +3,8 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/council-on-environmental-quality/refs/heads/main/apis.yml
 name: Council on Environmental Quality
 tags:
-  - Federal Government
   - Environment
+  - Federal Government
 type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
