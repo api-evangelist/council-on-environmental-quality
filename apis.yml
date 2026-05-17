@@ -1,6 +1,6 @@
 aid: council-on-environmental-quality
 name: Council on Environmental Quality
-x-type: government
+kind: government
 description: >-
   The Council on Environmental Quality (CEQ) is an office within the Executive
   Office of the President of the United States that coordinates federal
