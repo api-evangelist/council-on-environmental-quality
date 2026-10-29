@@ -1,4 +1,4 @@
-# Council on Environmental Quality (council-on-environmental-quality)
+# Council on Environmental Quality
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,43 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Council on Environmental Quality (CEQ) is an office within the Executive Office of the President that coordinates federal environmental policy, advises the President, and oversees the implementation of the National Environmental Policy Act (NEPA). CEQ does not publish a public developer API; environmental data is surfaced through partner federal agencies and platforms.
+The Council on Environmental Quality (CEQ) is an office within the Executive Office of the President of the United States that coordinates federal environmental policy, advises the President on environmental and natural resource policies, and oversees the implementation of the National Environmental Policy Act (NEPA). CEQ does not publish a public developer API. Federal NEPA documents and related environmental data are surfaced through partner federal agencies and platforms (NEPAtool, the Federal Permitting Dashboard, regulations.gov, EPA EJScreen, and the Climate and Economic Justice Screening Tool).
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/council-on-environmental-quality/refs/heads/main/apis.yml)
+**Areas:** CEQ · Climate · Environment · Environmental Justice · Environmental Policy · Executive Office of the President · Federal Government · Government · NEPA · Permitting · Public Data · White House
 
-## Scope
+## Council on Environmental Quality on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Public
-- **x-type:** government
+Everything profiled for Council on Environmental Quality is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/council-on-environmental-quality/](https://apis.io/providers/council-on-environmental-quality/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- CEQ, Climate, Environment, Environmental Justice, Environmental Policy, Executive Office of the President, Federal Government, Government, NEPA, Permitting, Public Data, White House
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Council On Environmental Quality Domain Security](https://apis.io/security/council-on-environmental-quality/council-on-environmental-quality-domain-security/)
 
-No public APIs have been documented. CEQ environmental data is delivered through partner platforms such as the Federal Permitting Dashboard, EPA EJScreen, and the Climate and Economic Justice Screening Tool.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.whitehouse.gov/ceq/)
-- [About Us](https://www.whitehouse.gov/ceq/about/)
-- [NEPA](https://ceq.doe.gov/)
-- [NEPA Regulations](https://ceq.doe.gov/laws-regulations/regulations.html)
-- [Permitting Dashboard](https://www.permits.performance.gov/)
-- [EJScreen](https://www.epa.gov/ejscreen)
-- [CEJST](https://screeningtool.geoplatform.gov/)
-- [Regulations.gov](https://www.regulations.gov/)
-- [Federal Register](https://www.federalregister.gov/agencies/council-on-environmental-quality)
+- [Blog](https://www.whitehouse.gov/news/)
+- [Privacy policy](https://www.whitehouse.gov/privacy/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 7.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/council-on-environmental-quality/](https://apis.io/providers/council-on-environmental-quality/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Council on Environmental Quality: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/council-on-environmental-quality/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
